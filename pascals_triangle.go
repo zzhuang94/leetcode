@@ -28,15 +28,14 @@ func main() {
 
 func generate(numRows int) [][]int {
 	ret := [][]int{}
-	if numRows <= 0 {
+	t := []int{1}
+	ret = append(ret, t)
+	if numRows <= 1 {
 		return ret
 	}
-	ret = append(ret, []int{1})
-	for n := 1; n < numRows; n++ {
-		t := []int{1}
-		r := ret[n-1]
-		for i := 0; i < n-1; i++ {
-			t = append(t, r[i]+r[i+1])
+	for n := 2; n <= numRows; n++ {
+		for i := n - 2; i > 0; i-- {
+			t[i] = t[i] + t[i-1]
 		}
 		t = append(t, 1)
 		ret = append(ret, t)

@@ -6,6 +6,7 @@
 - `leetcode 53` algorithms/maximum_subarray.go
 - `leetcode 58` algorithms/length_of_last_word.go
 - `leetcode 69` algorithms/sqrt.go
+- `leetcode 70` algorithms/climbing_stairs.go
 - `leetcode 118` algorithms/pascals_triangle.go
 - `leetcode 119` algorithms/pascals_triangle_ii.go
 - `leetcode 175` database/combine_two_tables.sql

@@ -21,3 +21,4 @@
 - `leetcode 194` shell/transpose_file.sh
 - `leetcode 195` shell/tenth_line.sh
 - `leetcode 198` algorithms/house_robber.go
+- `leetcode 202` algorithms/happy_number.go

@@ -26,3 +26,4 @@
 - `leetcode 205` algorithms/isomorohic_strings.go
 - `leetcode 231` algorithms/power_of_two.go
 - `leetcode 242` algorithms/valid_anagram.go
+- `leetcode 258` algorithms/add_digits.go

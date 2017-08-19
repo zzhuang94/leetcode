@@ -31,3 +31,4 @@
 - `leetcode 268` algorithms/missing_number.go
 - `leetcode 283` algorithms/move_zeroes.go
 - `leetcode 290` algorithms/word_pattern.go
+- `leetcode 293` algorithms/nim_game.go

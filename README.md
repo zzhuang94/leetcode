@@ -33,3 +33,4 @@
 - `leetcode 290` algorithms/word_pattern.go
 - `leetcode 293` algorithms/nim_game.go
 - `leetcode 326` algorithms/power_of_three.go
+- `leetcode 342` algorithms/power_of_four.go

@@ -23,3 +23,4 @@
 - `leetcode 198` algorithms/house_robber.go
 - `leetcode 202` algorithms/happy_number.go
 - `leetcode 204` algorithms/count_primes.go
+- `leetcode 205` algorithms/isomorohic_strings.go

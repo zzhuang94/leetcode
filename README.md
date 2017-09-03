@@ -36,3 +36,4 @@
 - `leetcode 342` algorithms/power_of_four.go
 - `leetcode 344` algorithms/reverse_string.go
 - `leetcode 345` algorithms/reverse_vowels_of_a_string.go
+- `leetcode 349` algorithms/intersect_array.go

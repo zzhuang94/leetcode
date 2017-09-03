@@ -40,3 +40,4 @@
 - `leetcode 367` algorithms/valid_perfect_square.go
 - `leetcode 371` algorithms/sum_two.go
 - `leetcode 383` algorithms/ransom_note.go
+- `leetcode 387` algorithms/first_unique.go

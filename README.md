@@ -37,3 +37,4 @@
 - `leetcode 344` algorithms/reverse_string.go
 - `leetcode 345` algorithms/reverse_vowels_of_a_string.go
 - `leetcode 349` algorithms/intersect_array.go
+- `leetcode 367` algorithms/valid_perfect_square.go

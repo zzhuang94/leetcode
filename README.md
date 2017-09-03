@@ -43,3 +43,4 @@
 - `leetcode 387` algorithms/first_unique.go
 - `leetcode 389` algorithms/find_diff.go
 - `leetcode 409` algorithms/longest_palindrome.go
+- `leetcode 412` algorithms/fizz_buzz.go

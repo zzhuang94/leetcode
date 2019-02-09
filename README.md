@@ -2,6 +2,7 @@
 
 - `leetcode 1` algorithms/two_sum.go
 - `leetcode 3` algorithms/longest_substring.go
+- `leetcode 4` algorithms/median_of_two_sorted_arrays.go
 - `leetcode 35` algorithms/search_insert_position.go
 - `leetcode 53` algorithms/maximum_subarray.go
 - `leetcode 58` algorithms/length_of_last_word.go
